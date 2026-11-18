@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @EmirHergul
-- I'm Jr. Mobile App Developer
+
